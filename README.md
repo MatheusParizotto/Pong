@@ -1,7 +1,10 @@
-# Pong
+# Pong:
 - Pong feito no GameMaker
 
-# Objetivo
+# Objetivo:
 - Aprender sobre lógica de programação
 - Criar um jogo simples e 100% funcional
 - Práticar e aprender mecânicas novas
+
+# Para testar:
+- Acessar o link https://gxc.gg/games/gvxrow/pong-gamemaker
