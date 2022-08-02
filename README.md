@@ -1,10 +1,7 @@
-# Pong:
+# Descrição:
 - Pong feito no GameMaker
-
-# Objetivo:
-- Aprender sobre lógica de programação
-- Criar um jogo simples e 100% funcional
-- Práticar e aprender mecânicas novas
+- Feito apenas para praticar e aprender novas mecânicas de jogo
+- Existe um pequeno bug onde a bola pode ficar presa na raquete
 
 # Para testar:
 - Acessar o link https://gxc.gg/games/gvxrow/pong-gamemaker
